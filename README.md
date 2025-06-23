@@ -9,7 +9,7 @@
 
   🤝 let's collaborate on Automation and Devops projects!
 
-  🔭 With expertise in **[Terraform and Kubernetes](https://github.com/vikashraj1/prometheus-and-grafana)** | 🌱 Integrating **Observability**
+  🔭 With expertise in **[Terraform with GitHub Actions](https://github.com/rohnny80/ronnytech-github-actions-terraform-ecs-project)** | 🌱 Integrating **Observability**
 
   🕹️ _Everything is under control._
 
