@@ -39,7 +39,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vikash-mrm&abbreviated=true&style=flat-square)
 
-</div>
+</div> 
 
 </p>
 
@@ -47,7 +47,10 @@
 
   <h2>📫 Reach Me</h2>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldajewole)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldajewole)          <img src="https://img.shields.io/badge/WEBSITE-A52A2A?style=for-the-badge&logo=website&logoColor=white" alt="WEBSITE">
+
+
 
 
 </div>
+
